@@ -1,7 +1,3 @@
-## Introduction:
-# This function first simulates the probability that player 1 ultimately wins the game 
-# and calculated the actual probability by adopting the negative binomial distribution. 
-# Then the difference between them will be calculated.
 
 ## Input:
 # p: the vector pf probability that the player 1, 2, ..., n wins in a single trial
